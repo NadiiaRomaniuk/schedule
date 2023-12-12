@@ -48,22 +48,16 @@ from test_sets import user_input_4
 from test_sets import user_input_5
 
 user_inputs = []
-rest=['rest', 'rest', 'rest', 'rest']
+#user_inputs.extend(user_input_1) 
 
-user_inputs.extend(user_input_1) 
-user_inputs.extend(rest)
-
-#user_inputs.extend(user_input_2)
-#user_inputs.extend(rest)
+user_inputs.extend(user_input_2)
 
 #user_inputs.extend(user_input_3)
-#user_inputs.extend(rest)
 
 #user_inputs.extend(user_input_4) 
-#user_inputs.extend(rest)
 
 #user_inputs.extend(user_input_5)      #oтут банальний приклад, але наочний 
-#user_inputs.extend(rest)
+
 
 sorted_inputs = sort_inputs(user_inputs)
 
