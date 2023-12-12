@@ -59,3 +59,12 @@ user_input_4 = [
     "do physics",
     "study history",
 ]
+
+user_input_5 = [
+    "do math",
+    "do math",
+    "do math",
+    "sing",
+    "sing",
+    "sing"
+]
